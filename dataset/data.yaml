@@ -1,0 +1,11 @@
+path: C:\Users\Narabodee\Desktop\เก็บงาน\ML-CPE\LAB10\dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 5
+names:
+  0: THAI100
+  1: THAI1000
+  2: THAI20
+  3: THAI50
+  4: THAI500

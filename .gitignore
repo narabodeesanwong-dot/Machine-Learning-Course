@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.history/
+
+# Git
+.git/
+
+# Training outputs
+runs/
+outputs

@@ -1,0 +1,4 @@
+Configuration,Epochs,Img_Size,Batch_Size,Precision,Recall,mAP@50,mAP@50-95
+exp1_ep10_img640_b16,10,640,16,0.9794,0.9745,0.9907,0.9562
+exp2_ep25_img640_b16,25,640,16,0.9974,0.9987,0.995,0.9692
+exp3_ep25_img416_b8,25,416,8,0.9932,0.9948,0.995,0.9757
